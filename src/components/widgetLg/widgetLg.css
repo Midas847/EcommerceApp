@@ -10,16 +10,16 @@
   font-weight: 600;
 }
 
-.widgetLgTable{
+.widgetLgTable {
   width: 100%;
   border-spacing: 20px;
 }
 
-.widgetLgTh{
+.widgetLgTh {
   text-align: left;
 }
 
-.widgetLgUser{
+.widgetLgUser {
   display: flex;
   align-items: center;
   font-weight: 600;
@@ -33,7 +33,8 @@
   margin-right: 10px;
 }
 
-.widgetLgDate,.widgetLgAmount{
+.widgetLgDate,
+.widgetLgAmount {
   font-weight: 300;
 }
 
@@ -43,17 +44,15 @@
   border-radius: 10px;
 }
 
-.widgetLgButton.Approved{
-    background-color: #e5faf2;
-    color: #3bb077;
+.widgetLgButton.approved {
+  background-color: #e5faf2;
+  color: #3bb077;
 }
-.widgetLgButton.Declined{
-    background-color: #fff0f1;
-    color: #d95087;
-
+.widgetLgButton.declined {
+  background-color: #fff0f1;
+  color: #d95087;
 }
-.widgetLgButton.Pending{
-    background-color: #ebf1fe;
-    color: #2a7ade;
-
+.widgetLgButton.pending {
+  background-color: #ebf1fe;
+  color: #2a7ade;
 }
