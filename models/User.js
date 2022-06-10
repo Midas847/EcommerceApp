@@ -11,7 +11,11 @@ const UserSchema = new mongoose.Schema(
       type: Boolean,
       default: false,
     },
-    img: { type: String },
+    img: {
+      type: String,
+      default:
+        "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    },
   },
   { timestamps: true }
 );
