@@ -11,7 +11,6 @@ It also has an [Admin](https://ecommerce-admin-five.vercel.app/) Panel to edit a
 - We can register a new account, login to add products. 
 - User authentication is done using JWT.
 - Once we have added products to the cart, we can checkout using Stripe. (see credentials below)
-- A user can also register for the shop's newsletter and upon submit they will recieve an email from Email Js.
 - The Store also has an admin dashboard that only an admin account has access to. This dashboard can be used to add/edit or delete products on the store. (see credentials below)
 
 
