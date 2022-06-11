@@ -2,7 +2,7 @@
 
 ### [Live Demo](https://trevor-mu.vercel.app/)
 
-An ecommerce platform made with Next.js, Tailwind Css, Redux, Stripe, Email Js, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend.
+An ecommerce platform made with Next.js, Tailwind Css, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend.
 It also has an [Admin](https://ecommerce-admin-five.vercel.app/) Panel to edit and add products on the store.
 
 ## App Features
