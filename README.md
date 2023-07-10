@@ -1,6 +1,7 @@
 # The Trevor Army Shop
 
 ### [Live Demo](https://trevor-mu.vercel.app/)
+### [Admin Page](https://ecommerce-admin-five.vercel.app/)
 
 An ecommerce platform made with Next.js, Tailwind Css, Redux, Stripe, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend.
 It also has an [Admin](https://ecommerce-admin-five.vercel.app/) Panel to edit and add products on the store.
@@ -12,6 +13,7 @@ It also has an [Admin](https://ecommerce-admin-five.vercel.app/) Panel to edit a
 - User authentication is done using JWT.
 - Once we have added products to the cart, we can checkout using Stripe. (see credentials below)
 - The Store also has an admin dashboard that only an admin account has access to. This dashboard can be used to add/edit or delete products on the store. (see credentials below)
+- Analysis of sales and user activity of previous months can be tracked in the admin app.
 
 
 ### Credentials for testing
